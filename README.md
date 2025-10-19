@@ -3,7 +3,7 @@ A Convolutional Neural Network (CNN) built using **TensorFlow and Keras** to cla
 This project follows the classic *Deep Learning A–Z* structure, modernized for **Colab (GPU runtime)** and **TensorFlow 2.17 / Keras 3** compatibility.  
 
 ## 🚀 Overview
-The model automatically learns image features through convolution and pooling layers to distinguish between two classes — *cats* and *dogs*.  
+The model automatically learns image features through convolution and pooling layers to distinguish between two classes
 It includes preprocessing, model building, training, and prediction stages.
 
 ## 🧠 Features
